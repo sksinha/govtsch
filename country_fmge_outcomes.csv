@@ -1,0 +1,12 @@
+country,approx_pass_rate_pct_range,reference_period,data_confidence,notes
+Georgia,33-37,2024 session,Third-party aggregated,Among the higher-performing source countries in recent sessions
+Nepal,30-70,Multi-year range,Third-party aggregated,High variance; curriculum closely mirrors Indian MBBS syllabus
+Russia,28-30,2024 session,Third-party aggregated,Large candidate pool; results vary significantly by specific university
+Bangladesh,25-27,2024 session,Third-party aggregated,Curriculum similarity to India cited as a contributing factor
+Philippines,20-24,2024 session,Third-party aggregated,Ranked among lower-performing major source countries in 2024
+Kyrgyzstan,15-25,Multi-year range,Third-party aggregated,Wide variance by specific institution
+Kazakhstan,15-18,2024 session,Third-party aggregated,Moderate and improving per aggregator reports
+Uzbekistan,10-20,Multi-year range,Third-party aggregated,Emerging destination; limited multi-year data available
+China,9-20,2024 session,Third-party aggregated,Large candidate pool (13000+ in Dec 2024); wide university-level variance
+Ukraine,9-20,2024 session,Third-party aggregated,Disrupted academic continuity in recent years is a cited factor
+Armenia,Reported among lowest,2024 session,Third-party aggregated,Specific percentage not consistently published; treat as a caution flag
