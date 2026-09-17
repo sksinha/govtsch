@@ -9,7 +9,7 @@ large, unverifiable dataset for a decision this consequential.
 from pathlib import Path
 import pandas as pd
 
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent 
 
 
 def load_scholarships() -> pd.DataFrame:
